@@ -1,0 +1,450 @@
+Bracket 1
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Auburn', 'Arizona', 'Marquette', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 172.28334045410156
+
+Bracket 2
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'McNeese', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Florida', 'Purdue', 'McNeese', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Creighton']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 156.23333740234375
+
+Bracket 3
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'New Mexico', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Florida', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Arizona', 'Houston', 'Tennessee']
+R2 Winners: ['Arizona', 'Tennessee']
+Final Winner: ['Arizona']
+Expected Winnings: 154.39999389648438
+
+Bracket 4
+R32 Winners: ['Connecticut', 'Northwestern', 'UAB', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Charleston', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Vermont', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'McNeese', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Arizona', 'Marquette', 'Purdue']
+R2 Winners: ['Arizona', 'Marquette']
+Final Winner: ['Arizona']
+Expected Winnings: 146.9833221435547
+
+Bracket 5
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', 'Grand Canyon', 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'Utah State', 'McNeese', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Drake', 'North Carolina', 'Alabama', 'Clemson', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Tennessee']
+R2 Winners: ['Arizona', 'Tennessee']
+Final Winner: ['Arizona']
+Expected Winnings: 146.6999969482422
+
+Bracket 6
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'Michigan State', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', "Saint Mary's College", 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Auburn', 'Arizona', 'Houston', 'Creighton']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 139.72500610351562
+
+Bracket 7
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Texas']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 138.5833282470703
+
+Bracket 8
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', 'Grand Canyon', 'Charleston', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Grand Canyon', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'South Carolina', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Houston', 'Purdue']
+R2 Winners: ['North Carolina', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 136.816650390625
+
+Bracket 9
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Marquette', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Connecticut']
+Expected Winnings: 133.97500610351562
+
+Bracket 10
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'South Dakota State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'McNeese', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Drake', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'McNeese', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Auburn', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 133.36666870117188
+
+Bracket 11
+R32 Winners: ['Connecticut', 'FAU', 'UAB', 'Auburn', 'Duquesne', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Tennessee']
+R2 Winners: ['Arizona', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 129.89999389648438
+
+Bracket 12
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Yale', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Samford', 'Oregon', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'Michigan State', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'Alabama', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Illinois', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 129.14999389648438
+
+Bracket 13
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'TCU', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Wisconsin', 'Marquette', 'Gonzaga', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Marquette', 'Tennessee']
+R2 Winners: ['Connecticut', 'Tennessee']
+Final Winner: ['Connecticut']
+Expected Winnings: 128.5333251953125
+
+Bracket 14
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Morehead State', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Samford', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 127.01667022705078
+
+Bracket 15
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Morehead State', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Oregon', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Baylor', 'Duke', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'North Carolina', 'Duke', 'Tennessee']
+R2 Winners: ['Iowa State', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 125.3499984741211
+
+Bracket 16
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'James Madison', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Baylor', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Marquette', 'Tennessee']
+R2 Winners: ['Connecticut', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 123.90833282470703
+
+Bracket 17
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'Duquesne', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Oakland', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Texas Tech', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 123.3499984741211
+
+Bracket 18
+R32 Winners: ['Connecticut', 'Northwestern', 'UAB', 'Auburn', 'Duquesne', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Western Kentucky', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Florida', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Creighton']
+R4 Winners: ['Iowa State', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 122.44999694824219
+
+Bracket 19
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Yale', 'BYU', 'Morehead State', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Baylor', 'Houston', 'Marquette', 'Gonzaga', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Houston', 'Tennessee']
+R2 Winners: ['North Carolina', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 120.4000015258789
+
+Bracket 20
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Oakland', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Texas Tech', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Marquette', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 119.11666870117188
+
+Bracket 21
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'Duquesne', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Charleston', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Auburn', 'North Carolina', 'Houston', 'Tennessee']
+R2 Winners: ['Auburn', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 116.6500015258789
+
+Bracket 22
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Clemson', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Duke', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Duke', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 113.48332977294922
+
+Bracket 23
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Clemson', 'Arizona', 'Houston', 'Duke', 'North Carolina State', 'Marquette', 'Purdue', 'Gonzaga', 'Oregon', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Marquette', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 112.7833251953125
+
+Bracket 24
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'New Mexico', 'Arizona', 'Houston', 'Duke', 'Texas Tech', 'Florida', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Florida', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'North Carolina', 'Houston', 'Tennessee']
+R2 Winners: ['North Carolina', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 112.30000305175781
+
+Bracket 25
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Duke', 'Kentucky', 'Purdue', 'Creighton']
+R4 Winners: ['Connecticut', 'Arizona', 'Duke', 'Creighton']
+R2 Winners: ['Arizona', 'Duke']
+Final Winner: ['Arizona']
+Expected Winnings: 111.19999694824219
+
+Bracket 26
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Morehead State', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Florida', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'North Carolina', 'Kentucky', 'Purdue']
+R2 Winners: ['Iowa State', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 109.63333892822266
+
+Bracket 27
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Charleston', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 108.94999694824219
+
+Bracket 28
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Vermont', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'Oregon', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Samford', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'Alabama', 'Baylor', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Auburn', 'Alabama', 'Marquette', 'Purdue']
+R2 Winners: ['Auburn', 'Marquette']
+Final Winner: ['Auburn']
+Expected Winnings: 108.58333587646484
+
+Bracket 29
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Texas Tech', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 107.0999984741211
+
+Bracket 30
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Kansas', 'Oregon', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Houston', 'Tennessee']
+R2 Winners: ['Connecticut', 'Tennessee']
+Final Winner: ['Connecticut']
+Expected Winnings: 107.05000305175781
+
+Bracket 31
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Charleston', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Samford', 'South Carolina', 'Akron', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Samford', 'South Carolina', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Arizona', 'Houston', 'Tennessee']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 107.05000305175781
+
+Bracket 32
+R32 Winners: ['Connecticut', 'Northwestern', 'UAB', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Grand Canyon', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Baylor', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Baylor', 'Houston', 'Purdue']
+R2 Winners: ['Iowa State', 'Houston']
+Final Winner: ['Houston']
+Expected Winnings: 106.76667022705078
+
+Bracket 33
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Akron', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'South Carolina', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Auburn', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 106.26667022705078
+
+Bracket 34
+R32 Winners: ['Connecticut', 'FAU', 'UAB', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'James Madison', 'Duke', 'North Carolina State', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'Mississippi State', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Arizona']
+Expected Winnings: 106.0999984741211
+
+Bracket 35
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Texas Tech', 'Florida', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Duke', 'Florida', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Arizona', 'Duke', 'Purdue']
+R2 Winners: ['Arizona', 'Duke']
+Final Winner: ['Arizona']
+Expected Winnings: 104.6500015258789
+
+Bracket 36
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'TCU', 'McNeese', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Texas A&M', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Samford', 'South Carolina', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Duke', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Duke', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 104.08333587646484
+
+Bracket 37
+R32 Winners: ['Connecticut', 'Northwestern', 'UAB', 'Yale', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Charleston', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Yale', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'South Carolina', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'North Carolina', 'Arizona', 'Duke', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Duke', 'Tennessee']
+R2 Winners: ['Arizona', 'Duke']
+Final Winner: ['Arizona']
+Expected Winnings: 103.83333587646484
+
+Bracket 38
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Baylor', 'Duke', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'North Carolina', 'Duke', 'Tennessee']
+R2 Winners: ['Iowa State', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 103.5
+
+Bracket 39
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Yale', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', 'Grand Canyon', 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Colorado', 'Marquette', 'Purdue', 'Utah State', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'South Carolina', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Iowa State', 'Arizona', 'Marquette', 'Tennessee']
+R2 Winners: ['Iowa State', 'Marquette']
+Final Winner: ['Iowa State']
+Expected Winnings: 102.9000015258789
+
+Bracket 40
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'McNeese', 'Kansas', 'Oregon', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Florida', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Tennessee']
+R2 Winners: ['Arizona', 'Houston']
+Final Winner: ['Houston']
+Expected Winnings: 102.44999694824219
+
+Bracket 41
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'Duquesne', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Akron', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Florida', 'TCU', 'Kansas', 'South Carolina', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Kansas', 'Tennessee']
+R4 Winners: ['Auburn', 'North Carolina', 'Kentucky', 'Tennessee']
+R2 Winners: ['Auburn', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 101.4000015258789
+
+Bracket 42
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Charleston', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Colorado State', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', "Saint Mary's College", 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Texas Tech', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Marquette', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Connecticut']
+Expected Winnings: 98.69166564941406
+
+Bracket 43
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Morehead State', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Vermont', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'Utah State', 'McNeese', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'James Madison', 'Kentucky', 'Florida', 'Purdue', 'McNeese', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'BYU', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 96.5999984741211
+
+Bracket 44
+R32 Winners: ['Connecticut', 'Northwestern', 'UAB', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Arizona', 'Purdue']
+Final Winner: ['Arizona']
+Expected Winnings: 95.05000305175781
+
+Bracket 45
+R32 Winners: ['Stetson', 'Northwestern', 'UAB', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Mississippi State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Northwestern', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Texas Tech', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Gonzaga', 'Tennessee']
+R4 Winners: ['Auburn', 'North Carolina', 'Houston', 'Tennessee']
+R2 Winners: ['North Carolina', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 92.8499984741211
+
+Bracket 46
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'James Madison', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'Michigan State', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'Alabama', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Houston', 'Purdue']
+R2 Winners: ['Connecticut', 'Purdue']
+Final Winner: ['Purdue']
+Expected Winnings: 92.55000305175781
+
+Bracket 47
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Wisconsin', 'Kentucky', 'Florida', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'BYU', 'North Carolina', 'Arizona', 'Houston', 'Kentucky', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Kentucky', 'Tennessee']
+R2 Winners: ['Arizona', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 89.58332824707031
+
+Bracket 48
+R32 Winners: ['Connecticut', 'FAU', 'San Diego State', 'Auburn', 'Duquesne', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', 'Grand Canyon', 'Alabama', 'New Mexico', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'North Carolina State', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Samford', 'South Carolina', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'Illinois', 'Iowa State', 'North Carolina', 'Alabama', 'New Mexico', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Illinois', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'North Carolina', 'Marquette', 'Tennessee']
+R2 Winners: ['Connecticut', 'Tennessee']
+Final Winner: ['Connecticut']
+Expected Winnings: 89.53333282470703
+
+Bracket 49
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Drake', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'Clemson', 'Baylor', 'Dayton', 'Arizona', 'Houston', 'Nebraska', 'James Madison', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'McNeese', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'San Diego State', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Texas Tech', 'Marquette', 'Purdue', 'Kansas', 'Creighton', 'Tennessee']
+R8 Winners: ['Connecticut', 'Iowa State', 'North Carolina', 'Arizona', 'Houston', 'Marquette', 'Purdue', 'Tennessee']
+R4 Winners: ['Connecticut', 'Arizona', 'Marquette', 'Tennessee']
+R2 Winners: ['Arizona', 'Tennessee']
+Final Winner: ['Tennessee']
+Expected Winnings: 88.63333892822266
+
+Bracket 50
+R32 Winners: ['Connecticut', 'Northwestern', 'San Diego State', 'Auburn', 'BYU', 'Illinois', 'Washington State', 'Iowa State', 'North Carolina', 'Michigan State', "Saint Mary's College", 'Alabama', 'New Mexico', 'Baylor', 'Nevada', 'Arizona', 'Houston', 'Texas A&M', 'Wisconsin', 'Duke', 'Texas Tech', 'Kentucky', 'Florida', 'Marquette', 'Purdue', 'TCU', 'Gonzaga', 'Kansas', 'Oregon', 'Creighton', 'Texas', 'Tennessee']
+R16 Winners: ['Connecticut', 'Auburn', 'BYU', 'Iowa State', 'North Carolina', 'Alabama', 'Baylor', 'Arizona', 'Houston', 'Duke', 'Kentucky', 'Marquette', 'Purdue', 'Gonzaga', 'Creighton', 'Tennessee']
+R8 Winners: ['Auburn', 'Iowa State', 'North Carolina', 'Baylor', 'Houston', 'Marquette', 'Purdue', 'Creighton']
+R4 Winners: ['Iowa State', 'North Carolina', 'Houston', 'Creighton']
+R2 Winners: ['Iowa State', 'Houston']
+Final Winner: ['Iowa State']
+Expected Winnings: 86.76667022705078
+
